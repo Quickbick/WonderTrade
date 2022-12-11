@@ -1,0 +1,765 @@
+Stage2 0 0.592
+0 IVs Stage2 0.544
+ENG Stage2 0.424
+0 IVs ENG 0.296
+JPN Stage2 0.282
+0 IVs 0 0.28
+ENG 0 0.264
+JPN 0 0.2
+10 Stage2 0.192
+10 0 IVs 0.162
+1 IVs Stage2 0.16
+0 IVs JPN 0.15
+13:00 Stage2 0.142
+15:00 Stage2 0.116
+16:00 Stage2 0.106
+1 IVs 0 0.102
+10 ENG 0.1
+12:00 Stage2 0.098
+10:00 Stage2 0.096
+0 IVs 20 0.092
+13:00 0 IVs 0.092
+15:00 0 0.088
+Stage2 20 0.088
+13:00 0 0.086
+1 IVs ENG 0.082
+15:00 0 IVs 0.082
+9:00 Stage2 0.078
+15:00 ENG 0.076
+0 IVs 16:00 0.074
+3 IVs 0 0.074
+10:00 0 0.072
+3 IVs Stage2 0.072
+GER Stage2 0.072
+12:00 0 0.07
+13:00 ENG 0.07
+ENG 16:00 0.064
+2 IVs Stage2 0.062
+ENG 20 0.062
+SPA Stage2 0.062
+16:00 0 0.06
+21:00 Stage2 0.058
+10:00 0 IVs 0.056
+10:00 JPN 0.056
+0 IVs 12:00 0.054
+9:00 0 0.054
+Abra 0 0.054
+Abra Stage2 0.054
+2 IVs 0 0.052
+9:00 JPN 0.052
+0 IVs Stage3 0.05
+10 JPN 0.05
+4 IVs 0 0.05
+4 IVs Stage2 0.05
+SPA 0 IVs 0.05
+0 IVs GER 0.046
+9:00 0 IVs 0.046
+GER 0 0.046
+Stage2 17:00 0.046
+0 IVs 21:00 0.044
+1 IVs JPN 0.044
+3 IVs JPN 0.044
+11:00 Stage2 0.042
+Magikarp Stage2 0.04
+10 1 IVs 0.038
+12:00 ENG 0.038
+20:00 Stage2 0.038
+5 IVs 0 0.038
+Mimikyu 0 0.038
+Mimikyu Stage2 0.038
+Stage2 5 IVs 0.038
+10 16:00 0.036
+13:00 JPN 0.036
+Abra 0 IVs 0.036
+FRE Stage2 0.036
+0 IVs 17:00 0.034
+21:00 0 0.034
+JPN 21:00 0.034
+18:00 Stage2 0.032
+A.Rattata Stage2 0.032
+Abra JPN 0.032
+ENG 17:00 0.032
+Stage2 Yungoos 0.032
+Stage3 ENG 0.032
+Wingull Stage2 0.032
+11:00 0 0.03
+13:00 1 IVs 0.03
+18:00 0 IVs 0.03
+JPN 12:00 0.03
+JPN 2 IVs 0.03
+0 IVs Yungoos 0.028
+0:00 Stage2 0.028
+18:00 ENG 0.028
+23:00 Stage2 0.028
+9:00 ENG 0.028
+A.Rattata 0 0.028
+FRE 0 IVs 0.028
+SPA 0 0.028
+Salandit Stage2 0.028
+0 IVs 50 0.026
+10 SPA 0.026
+13:00 20 0.026
+20:00 0 0.026
+21:00 ENG 0.026
+Magnemite Stage2 0.026
+Mimikyu ENG 0.026
+Pikipek Stage2 0.026
+0 IVs 40 0.024
+0 IVs A.Rattata 0.024
+10 13:00 0.024
+15:00 1 IVs 0.024
+20:00 ENG 0.024
+FRE 0 0.024
+ITA Stage2 0.024
+JPN 0:00 0.024
+Magikarp 0 IVs 0.024
+Rowlet 0 0.024
+Rowlet Stage2 0.024
+Wingull 0 0.024
+Yungoos 0 0.024
+0 IVs 11:00 0.022
+0 IVs Wingull 0.022
+10:00 ENG 0.022
+2 IVs ENG 0.022
+20:00 0 IVs 0.022
+3 IVs ENG 0.022
+4 IVs ENG 0.022
+A.Vulpix Stage2 0.022
+JPN 20 0.022
+Stage3 20 0.022
+1 IVs 12:00 0.02
+10 12:00 0.02
+17:00 0 0.02
+23:00 ENG 0.02
+40 Stage2 0.02
+50 Stage2 0.02
+9:00 10 0.02
+A.Meowth Stage2 0.02
+A.Vulpix 0 0.02
+ENG Yungoos 0.02
+Magikarp JPN 0.02
+Magnemite 0 IVs 0.02
+0 IVs 0:00 0.018
+0 IVs Pikipek 0.018
+0:00 0 0.018
+10 10:00 0.018
+10 17:00 0.018
+10 Magikarp 0.018
+10:00 1 IVs 0.018
+11:00 ENG 0.018
+14:00 Stage2 0.018
+15:00 20 0.018
+15:00 GER 0.018
+23:00 0 0.018
+4 IVs JPN 0.018
+Gible 0 0.018
+Litten 0 0.018
+Litten Stage2 0.018
+Magikarp 0 0.018
+Magnemite 0 0.018
+Rowlet ENG 0.018
+Stage2 Gible 0.018
+0 IVs 30 0.016
+0 IVs A.Meowth 0.016
+0 IVs Salandit 0.016
+1 IVs 16:00 0.016
+1 IVs 20 0.016
+1 IVs GER 0.016
+15:00 JPN 0.016
+3 IVs 10:00 0.016
+3 IVs 13:00 0.016
+30 Stage2 0.016
+40 ENG 0.016
+A.Rattata ENG 0.016
+Abra ENG 0.016
+ENG 5 IVs 0.016
+ITA 0 0.016
+JPN 16:00 0.016
+Mimikyu 0 IVs 0.016
+Mudbray Stage2 0.016
+Rockruff Stage2 0.016
+Stage2 Grubbin 0.016
+0 IVs Mudbray 0.014
+14:00 0 IVs 0.014
+A.Diglett Stage2 0.014
+Dewpider Stage2 0.014
+Eevee 0 0.014
+Eevee Stage2 0.014
+JPN 50 0.014
+Litten 0 IVs 0.014
+Pikipek 0 0.014
+SPA 16:00 0.014
+Salandit 0 0.014
+0 IVs A.Raticate 0.012
+10 18:00 0.012
+10 20:00 0.012
+10 21:00 0.012
+10 GER 0.012
+10 Roggenrola 0.012
+13:00 FRE 0.012
+13:00 GER 0.012
+13:00 SPA 0.012
+15:00 10 0.012
+20:00 1 IVs 0.012
+50 ENG 0.012
+9:00 1 IVs 0.012
+A.Grimer Stage2 0.012
+A.Vulpix ENG 0.012
+Abra 1 IVs 0.012
+Abra 13:00 0.012
+CHS Stage2 0.012
+Cutiefly Stage2 0.012
+Dewpider 0 0.012
+Fletchling Stage2 0.012
+Grubbin 0 0.012
+ITA 0 IVs 0.012
+JPN 11:00 0.012
+JPN 5 IVs 0.012
+JPN Stage3 0.012
+Magnemite JPN 0.012
+Mimikyu 12:00 0.012
+Roggenrola Stage2 0.012
+SPA 20 0.012
+Stage3 40 0.012
+Stage3 A.Raticate 0.012
+Wingull ENG 0.012
+Zubat Stage2 0.012
+0 IVs Fletchling 0.01
+0 IVs Rockruff 0.01
+0 IVs Roggenrola 0.01
+0 IVs Rowlet 0.01
+10 A.Diglett 0.01
+10 Mudbray 0.01
+10 Pikipek 0.01
+10 Salandit 0.01
+12:00 2 IVs 0.01
+13:00 Stage3 0.01
+14:00 0 0.01
+15:00 SPA 0.01
+18:00 0 0.01
+20 17:00 0.01
+23:00 0 IVs 0.01
+3 IVs 9:00 0.01
+4 IVs 12:00 0.01
+9:00 2 IVs 0.01
+A.Geodude Stage2 0.01
+A.Grimer 0 0.01
+A.Grimer ENG 0.01
+Bagon 0 0.01
+Bagon Stage2 0.01
+CHS 0 0.01
+Caterpie Stage2 0.01
+Cutiefly 0 IVs 0.01
+GER 16:00 0.01
+JPN Gible 0.01
+JPN Salandit 0.01
+Ledyba Stage2 0.01
+Litten ENG 0.01
+Magikarp ENG 0.01
+Minior Stage2 0.01
+Mudbray ENG 0.01
+Pikipek ENG 0.01
+Popplio 0 0.01
+Popplio Stage2 0.01
+Rockruff 0 0.01
+Rockruff ENG 0.01
+SPA 1 IVs 0.01
+SPA 12:00 0.01
+Salandit ENG 0.01
+Stage3 50 0.01
+Stufful Stage2 0.01
+0 IVs A.Geodude 0.008
+0 IVs Caterpie 0.008
+0 IVs Grubbin 0.008
+0 IVs Staryu 0.008
+1 IVs 11:00 0.008
+1 IVs 40 0.008
+1 IVs A.Diglett 0.008
+1 IVs A.Rattata 0.008
+1 IVs Stage3 0.008
+1 IVs Wingull 0.008
+10 Fletchling 0.008
+10 Stage3 0.008
+10:00 GER 0.008
+10:00 Pikipek 0.008
+13:00 30 0.008
+13:00 ITA 0.008
+13:00 Magikarp 0.008
+13:00 Popplio 0.008
+14:00 ENG 0.008
+15:00 5 IVs 0.008
+15:00 A.Rattata 0.008
+15:00 Stage3 0.008
+16:00 20 0.008
+16:00 5 IVs 0.008
+18:00 20 0.008
+2 IVs 16:00 0.008
+21:00 20 0.008
+23:00 1 IVs 0.008
+23:00 JPN 0.008
+3 IVs Mimikyu 0.008
+A.Meowth 0 0.008
+A.Meowth ENG 0.008
+A.Rattata 16:00 0.008
+A.Vulpix 0 IVs 0.008
+Abra 10:00 0.008
+Abra 16:00 0.008
+CHS 0 IVs 0.008
+CHT Stage2 0.008
+Caterpie 0 0.008
+Cubone Stage2 0.008
+ENG Gible 0.008
+FRE 1 IVs 0.008
+Fomantis Stage2 0.008
+GER 20 0.008
+Gumshoos 0 IVs 0.008
+Gumshoos 20 0.008
+Gumshoos Stage3 0.008
+ITA 12:00 0.008
+JPN 40 0.008
+JPN Grubbin 0.008
+JPN Wingull 0.008
+KOR Stage2 0.008
+Ledyba 0 IVs 0.008
+Ledyba 0 0.008
+Machop ENG 0.008
+Machop Stage2 0.008
+Mareanie 0 0.008
+Mareanie Stage2 0.008
+Mimikyu 1 IVs 0.008
+Mimikyu JPN 0.008
+Minior 20 0.008
+Minior ENG 0.008
+Oricorio 0 IVs 0.008
+Oricorio Stage2 0.008
+Popplio 0 IVs 0.008
+Scyther Stage2 0.008
+Skarmory Stage2 0.008
+Snorunt Stage2 0.008
+Staryu 20 0.008
+Staryu Stage2 0.008
+Wimpod Stage2 0.008
+Zubat 1 IVs 0.008
+0 IVs A.Diglett 0.006
+0 IVs A.Grimer 0.006
+0 IVs KOR 0.006
+0 IVs Luvdisc 0.006
+0 IVs Snorunt 0.006
+0:00 20 0.006
+1 IVs 17:00 0.006
+1 IVs 21:00 0.006
+1 IVs Pikipek 0.006
+1 IVs Rowlet 0.006
+10 14:00 0.006
+10 Cutiefly 0.006
+10 FRE 0.006
+10 Lillipup 0.006
+10 Luvdisc 0.006
+10 Yungoos 0.006
+10:00 20 0.006
+10:00 4 IVs 0.006
+10:00 Stage3 0.006
+12:00 5 IVs 0.006
+12:00 50 0.006
+12:00 Wingull 0.006
+13:00 2 IVs 0.006
+13:00 4 IVs 0.006
+13:00 40 0.006
+13:00 A.Meowth 0.006
+13:00 Litten 0.006
+13:00 Pikipek 0.006
+15:00 3 IVs 0.006
+15:00 50 0.006
+15:00 A.Meowth 0.006
+15:00 A.Vulpix 0.006
+15:00 Ledyba 0.006
+15:00 Salandit 0.006
+15:00 Yungoos 0.006
+18:00 Stage3 0.006
+2 IVs Gible 0.006
+20:00 SPA 0.006
+3 IVs 23:00 0.006
+3 IVs Dewpider 0.006
+3 IVs Eevee 0.006
+30 ENG 0.006
+9:00 20 0.006
+9:00 4 IVs 0.006
+A.Diglett ENG 0.006
+A.Diglett JPN 0.006
+A.Meowth 20 0.006
+A.Meowth JPN 0.006
+A.Sandshrew 0 0.006
+A.Sandshrew Stage2 0.006
+A.Vulpix 12:00 0.006
+A.Vulpix 5 IVs 0.006
+A.Vulpix JPN 0.006
+Abra 12:00 0.006
+Bagon ENG 0.006
+Beldum 0 0.006
+Beldum JPN 0.006
+Beldum Stage2 0.006
+CHT 0 0.006
+Cottonee Stage2 0.006
+Cubone 0 0.006
+Cubone ENG 0.006
+Cutiefly 0 0.006
+Cutiefly ENG 0.006
+Dewpider ENG 0.006
+ENG Grubbin 0.006
+Eevee 10:00 0.006
+Eevee ENG 0.006
+Eevee JPN 0.006
+Exeggcute 40 0.006
+Exeggcute ENG 0.006
+Exeggcute Stage2 0.006
+FRE 12:00 0.006
+Finneon Stage2 0.006
+GER 11:00 0.006
+GER 12:00 0.006
+GER A.Rattata 0.006
+Gastly 0 0.006
+Gastly Stage2 0.006
+ITA 1 IVs 0.006
+ITA 2 IVs 0.006
+JPN 30 0.006
+JPN A.Rattata 0.006
+Jangmo-o Stage2 0.006
+Lillipup Stage2 0.006
+Luvdisc Stage2 0.006
+Magikarp 12:00 0.006
+Magikarp 16:00 0.006
+Magikarp 2 IVs 0.006
+Magikarp SPA 0.006
+Magnemite 1 IVs 0.006
+Magnemite 21:00 0.006
+Magnemite ENG 0.006
+Mareanie JPN 0.006
+Mimikyu 23:00 0.006
+Murkrow Stage2 0.006
+Rockruff 12:00 0.006
+SPA 10:00 0.006
+SPA 17:00 0.006
+SPA Pikipek 0.006
+SPA Salandit 0.006
+SPA Stage3 0.006
+Salandit 5 IVs 0.006
+Sandygast ENG 0.006
+Sandygast Stage2 0.006
+Scyther 0 0.006
+Skarmory 1 IVs 0.006
+Skarmory 20 0.006
+Snorunt 40 0.006
+Stage1 JPN 0.006
+Stage3 16:00 0.006
+Stufful 0 0.006
+Stufful ENG 0.006
+Trumbeak 0 IVs 0.006
+Trumbeak ENG 0.006
+Trumbeak Stage3 0.006
+Wimpod 0 0.006
+Wimpod ENG 0.006
+Wingull 16:00 0.006
+Wishiwashi 0 0.006
+Wishiwashi Stage2 0.006
+Zubat JPN 0.006
+0 IVs Bagon 0.004
+0 IVs Cottonee 0.004
+0 IVs Dewpider 0.004
+0 IVs Drampa 0.004
+0 IVs Drowzee 0.004
+0 IVs Fletchinder 0.004
+0 IVs Golbat 0.004
+0 IVs Granbull 0.004
+0 IVs Komala 0.004
+0 IVs Machop 0.004
+0 IVs Minior 0.004
+0 IVs Pichu 0.004
+0 IVs Rufflet 0.004
+0 IVs Scyther 0.004
+0 IVs Spearow 0.004
+0 IVs Spinarak 0.004
+0 IVs Torkoal 0.004
+0:00 2 IVs 0.004
+0:00 A.Rattata 0.004
+0:00 ENG 0.004
+0:00 Yungoos 0.004
+1 IVs 0:00 0.004
+1 IVs 30 0.004
+1 IVs A.Meowth 0.004
+1 IVs Machop 0.004
+1 IVs Minior 0.004
+1 IVs Wishiwashi 0.004
+1 IVs Yungoos 0.004
+10 0:00 0.004
+10 11:00 0.004
+10 23:00 0.004
+10 A.Meowth 0.004
+10 Fletchinder 0.004
+10 Grubbin 0.004
+10 ITA 0.004
+10 Machop 0.004
+10 Magnemite 0.004
+10 Oricorio 0.004
+10 Rockruff 0.004
+10 Rufflet 0.004
+10 Wingull 0.004
+10:00 2 IVs 0.004
+10:00 40 0.004
+10:00 Caterpie 0.004
+10:00 Grubbin 0.004
+10:00 Salandit 0.004
+10:00 Wimpod 0.004
+10:00 Wingull 0.004
+11:00 2 IVs 0.004
+11:00 50 0.004
+11:00 A.Rattata 0.004
+11:00 Gible 0.004
+12:00 20 0.004
+12:00 A.Rattata 0.004
+12:00 A.Sandshrew 0.004
+12:00 Fletchling 0.004
+12:00 Gible 0.004
+12:00 Grubbin 0.004
+12:00 KOR 0.004
+12:00 Spearow 0.004
+13:00 A.Geodude 0.004
+13:00 Magnemite 0.004
+13:00 Mankey 0.004
+13:00 Minior 0.004
+13:00 Salandit 0.004
+13:00 Snorunt 0.004
+13:00 Stufful 0.004
+13:00 Wingull 0.004
+13:00 Yungoos 0.004
+14:00 FRE 0.004
+14:00 JPN 0.004
+14:00 SPA 0.004
+14:00 Stage3 0.004
+15:00 2 IVs 0.004
+15:00 Abra 0.004
+15:00 Eevee 0.004
+15:00 FRE 0.004
+15:00 Finneon 0.004
+15:00 Litten 0.004
+15:00 Machop 0.004
+15:00 Magikarp 0.004
+15:00 Pikipek 0.004
+18:00 1 IVs 0.004
+18:00 40 0.004
+18:00 50 0.004
+18:00 A.Raticate 0.004
+18:00 GER 0.004
+18:00 Grubbin 0.004
+18:00 JPN 0.004
+18:00 Rowlet 0.004
+18:00 Salandit 0.004
+2 IVs Honedge 0.004
+20:00 GER 0.004
+20:00 JPN 0.004
+20:00 Stage3 0.004
+21:00 2 IVs 0.004
+21:00 40 0.004
+21:00 Dewpider 0.004
+21:00 Rowlet 0.004
+21:00 Yungoos 0.004
+23:00 2 IVs 0.004
+23:00 20 0.004
+23:00 30 0.004
+3 IVs 11:00 0.004
+3 IVs 12:00 0.004
+3 IVs Absol 0.004
+3 IVs Beldum 0.004
+3 IVs GER 0.004
+3 IVs Gible 0.004
+3 IVs Magikarp 0.004
+3 IVs Mareanie 0.004
+3 IVs Wimpod 0.004
+30 16:00 0.004
+4 IVs 11:00 0.004
+4 IVs 16:00 0.004
+4 IVs 21:00 0.004
+4 IVs Dewpider 0.004
+4 IVs GER 0.004
+4 IVs Gible 0.004
+4 IVs Grubbin 0.004
+4 IVs Rowlet 0.004
+40 16:00 0.004
+5 IVs 17:00 0.004
+50 A.Raticate 0.004
+9:00 40 0.004
+9:00 5 IVs 0.004
+9:00 50 0.004
+9:00 A.Grimer 0.004
+9:00 Beldum 0.004
+9:00 Dewpider 0.004
+9:00 Magikarp 0.004
+9:00 Mudbray 0.004
+9:00 Rockruff 0.004
+9:00 Stage1 0.004
+9:00 Stage3 0.004
+9:00 Wishiwashi 0.004
+9:00 Yungoos 0.004
+9:00 Zubat 0.004
+A.Diglett 11:00 0.004
+A.Geodude 0 0.004
+A.Geodude 20 0.004
+A.Geodude ENG 0.004
+A.Raticate 20 0.004
+A.Vulpix 17:00 0.004
+Abra 0:00 0.004
+Abra 2 IVs 0.004
+Abra 21:00 0.004
+Abra CHS 0.004
+Absol 0 0.004
+Absol Stage2 0.004
+Bagon 11:00 0.004
+Bounsweet 0 0.004
+Bounsweet Stage2 0.004
+CHS 16:00 0.004
+CHT 0 IVs 0.004
+CHT 10:00 0.004
+Comfey Stage2 0.004
+Crabrawler ENG 0.004
+Crabrawler Stage2 0.004
+Cutiefly 12:00 0.004
+Deino 0 0.004
+Deino Stage2 0.004
+Drampa Stage2 0.004
+Dratini ENG 0.004
+Dratini Stage2 0.004
+Drowzee ENG 0.004
+Drowzee Stage2 0.004
+ENG A.Raticate 0.004
+ENG Fletchinder 0.004
+Eevee 1 IVs 0.004
+Eevee 2 IVs 0.004
+Emolga 50 0.004
+Emolga Stage2 0.004
+Exeggcute 0 IVs 0.004
+FRE 10:00 0.004
+FRE 11:00 0.004
+FRE 30 0.004
+FRE 50 0.004
+FRE A.Geodude 0.004
+FRE Magnemite 0.004
+FRE Pikipek 0.004
+FRE Stage3 0.004
+Fearow 20 0.004
+Fearow Stage2 0.004
+Finneon 0 IVs 0.004
+Finneon 10 0.004
+Finneon ENG 0.004
+Fletchling 0 0.004
+Fomantis 0 IVs 0.004
+Fomantis 10 0.004
+Fomantis 2 IVs 0.004
+Fomantis JPN 0.004
+GER 17:00 0.004
+GER 30 0.004
+GER 40 0.004
+GER Caterpie 0.004
+GER Fletchling 0.004
+GER Wingull 0.004
+Gastly ENG 0.004
+Golbat ENG 0.004
+Golbat Stage3 0.004
+Gumshoos 16:00 0.004
+Gumshoos ENG 0.004
+Gumshoos SPA 0.004
+Honedge 0 0.004
+ITA Wingull 0.004
+JPN 17:00 0.004
+JPN A.Raticate 0.004
+JPN A.Sandshrew 0.004
+JPN Cottonee 0.004
+JPN Dewpider 0.004
+JPN Fletchling 0.004
+JPN Granbull 0.004
+JPN Pichu 0.004
+JPN Rowlet 0.004
+JPN Yungoos 0.004
+Jangmo-o 0 IVs 0.004
+Jangmo-o 0 0.004
+Jangmo-o ENG 0.004
+KOR 0 0.004
+KOR 20 0.004
+Klefki Stage2 0.004
+Komala 0 0.004
+Komala Stage2 0.004
+Ledyba JPN 0.004
+Lillipup 0 IVs 0.004
+Lillipup 10:00 0.004
+Litten 21:00 0.004
+Litten JPN 0.004
+Litwick Stage2 0.004
+Luvdisc ENG 0.004
+Machop 0 0.004
+Magikarp 1 IVs 0.004
+Magikarp 10:00 0.004
+Magikarp 21:00 0.004
+Magikarp 30 0.004
+Magnemite GER 0.004
+Makuhita 0 IVs 0.004
+Makuhita Stage2 0.004
+Mankey 0 IVs 0.004
+Mankey Stage2 0.004
+Metapod Stage3 0.004
+Mimikyu 11:00 0.004
+Mimikyu 16:00 0.004
+Mimikyu 21:00 0.004
+Mimikyu 4 IVs 0.004
+Mudbray 16:00 0.004
+Mudbray 20 0.004
+Murkrow 0 0.004
+Murkrow 16:00 0.004
+Murkrow ENG 0.004
+Oricorio 0 0.004
+Oricorio ENG 0.004
+Pikipek 16:00 0.004
+Pikipek JPN 0.004
+Popplio ENG 0.004
+Popplio JPN 0.004
+Rockruff GER 0.004
+Roggenrola 16:00 0.004
+Roggenrola GER 0.004
+Roggenrola JPN 0.004
+Rowlet 11:00 0.004
+Rowlet 16:00 0.004
+Rowlet 5 IVs 0.004
+Rufflet Stage2 0.004
+SPA 5 IVs 0.004
+SPA A.Meowth 0.004
+Salandit 17:00 0.004
+Salandit 20 0.004
+Sandygast 0 0.004
+Scyther JPN 0.004
+Shellder 0 0.004
+Shellder Stage2 0.004
+Skarmory JPN 0.004
+Snorunt GER 0.004
+Spearow Stage2 0.004
+Spinarak ENG 0.004
+Spinarak Stage2 0.004
+Stage1 0 IVs 0.004
+Stage1 0 0.004
+Stage1 Pichu 0.004
+Stage2 Honedge 0.004
+Stage3 30 0.004
+Stage3 Fletchinder 0.004
+Stage3 Granbull 0.004
+Stage4 ENG 0.004
+Stufful 0 IVs 0.004
+Stufful 20 0.004
+Stufful JPN 0.004
+Tentacool 20 0.004
+Tentacool Stage2 0.004
+Torkoal 20 0.004
+Torkoal ENG 0.004
+Torkoal Stage2 0.004
+Trumbeak 20 0.004
+Wailmer Stage2 0.004
+Wishiwashi JPN 0.004
+Zubat 0 IVs 0.004
+Zubat 0 0.004
+Zubat 10:00 0.004
+Zubat ENG 0.004
